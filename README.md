@@ -25,14 +25,6 @@
 | Move Right | **D** |
 | Use Move in Battle | **Mouse Click** |
 | Toggle Tutorial | **P** |
-
----
-
-### 🖼 Screenshots
-
-#### Gameplay View
-![Pokémon Quest of Legend]()
-
 ---
 
 ### 📦 Project Structure
